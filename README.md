@@ -4,5 +4,5 @@
 - 💞️ I’m looking to collaborate on C#/Python/Java/Javascript Development and DevOps initiatives
 - 📫 How to reach me:
   * [hello@raze.mx](mailto:hello@raze.mx)
-  * * [my page](https://raze.mx)
+  * [my page](https://raze.mx)
 
